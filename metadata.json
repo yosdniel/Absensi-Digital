@@ -1,0 +1,6 @@
+{
+  "name": "Hadir.in - Sistem Absensi",
+  "description": "Aplikasi Sistem Absensi Hadir.in dengan absensi berbasis lokasi, verifikasi wajah, manajemen shift, dan pengajuan izin.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
